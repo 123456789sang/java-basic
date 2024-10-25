@@ -18,6 +18,4 @@ public class linaersearch {
             System.out.println("the key index:"+index);
         }
     }
-
-   
 }
