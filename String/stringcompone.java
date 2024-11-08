@@ -1,3 +1,6 @@
+package String;
+
+
 public class stringcompone {
     public static String Stringcompress( String str){
         String newstr="";
