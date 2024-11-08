@@ -1,3 +1,4 @@
+package sorting;
 public class countingsort {
     public static void countingSort(int [] num){
         int largest=Integer.MIN_VALUE;

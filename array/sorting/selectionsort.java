@@ -1,3 +1,4 @@
+package sorting;
 public class selectionsort {
     public static void printArray(int num[]){
         for (int i=0;i<num.length;i++){

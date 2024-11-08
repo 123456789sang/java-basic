@@ -1,4 +1,4 @@
-public class pattternset {
+public class patternrevesenum {
     public static void pattern_Set_with_number(int n ) {
      
         for(int k=0;k<n;k++){

@@ -1,3 +1,4 @@
+package String;
 public class lettertouppercase {
     public static String toUppercase(String str){
         StringBuilder sb= new StringBuilder(" ");

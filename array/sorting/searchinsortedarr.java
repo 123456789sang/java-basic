@@ -1,3 +1,4 @@
+package sorting;
 public class searchinsortedarr {
     public static  boolean staircaseSearch(int num [][],int key){
         int Row=0,Col=num[0].length-1;
