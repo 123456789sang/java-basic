@@ -1,3 +1,4 @@
+package array;
 public class binarysearch {
     public static int binarySearch(int []num,int value){
         int start =0,end=num.length-1;
