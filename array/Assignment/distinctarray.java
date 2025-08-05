@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
-public class distinctarray {
+public class distinctarray {    
     public static boolean distinctElement(int num[]){
         //   for (int i=0;i<num.length;i++) { 
         //         for (int j=i+1;j<num.length;j++) { //brute force O(n*n)
