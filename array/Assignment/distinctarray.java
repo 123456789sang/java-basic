@@ -18,7 +18,7 @@ public class distinctarray {
         //    if (num[i]==num[i+1]) {
         //        return true;
         //    }
-        // }
+        // }     
         Set<Integer>set=new HashSet();
         for (int i = 0; i < num.length; i++) {
             if (set.contains(num[i])) {
